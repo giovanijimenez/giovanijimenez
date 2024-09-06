@@ -1,6 +1,8 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=giovanijimenez.giovanijimenez"/>
+<br>
 ## 💫 About Me:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind)](https://skillicons.dev)
+<br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,java,firebase,linux,npm,py,swift,docker,c,tailwind,git" />
