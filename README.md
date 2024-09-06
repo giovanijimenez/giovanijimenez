@@ -1,8 +1,14 @@
-## Hi there 👋
+## 💫 About Me:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind)](https://skillicons.dev)
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,java,firebase,linux,npm,py,swift,docker,c,tailwind,git" />
+  </a>
+</p>
+## Contacto
+<p align="center">
+  <a href="malito:giovanijimenez114@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" target="_blank/>
   </a>
 </p>
 
