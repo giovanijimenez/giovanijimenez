@@ -1,6 +1,4 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=giovanijimenez.giovanijimenez"/>
-<hr/>
-<br/>
 
 <br>
 <hr>
@@ -17,9 +15,11 @@
   </a>
 </p>
 
+<br>
+<hr>
+
 <p aling="center">
   <a>
-    
     <img src="https://skillicons.dev/icons?i=figma,ai,ps,ae,pr,blender,idea,obsidianxd" />
   </a>
 </p>
