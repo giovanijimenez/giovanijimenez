@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=giovanijimenez.giovanijimenez"/>
 <hr>
-<br>
+<br/>
 # 💫 About Me:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind)](https://skillicons.dev)
@@ -14,15 +14,15 @@
 <br>
 <hr>
 
-<h2 style="font-size:25px; color: blue;">Contacto</h2>
+<h2 style="font-size:25px; text-color: blue;">Contacto</h2>
 <p align="center">
   <a href="mailto:giovanijimenez114@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" target="_blank/>
   </a>
 </p>
 
-<br>
-<hr>
+<br/>
+<hr/>
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -32,7 +32,6 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![figma](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
