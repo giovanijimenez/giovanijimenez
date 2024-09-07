@@ -11,7 +11,7 @@
 # 💻 App:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,java,firebase,linux,npm,py,swift,docker,c,tailwind,git,mysql,postman" />
+    <img src="https://skillicons.dev/icons?i=swift,java,py,c,firebase,linux,npm,docker,mysql,git,postman" />
   </a>
 </p>
 
