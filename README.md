@@ -14,16 +14,6 @@
 <br>
 <hr>
 
-<h2 style="font-size:25px; text-color: blue;">Contacto</h2>
-<p align="center">
-  <a href="mailto:giovanijimenez114@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" target="_blank/>
-  </a>
-</p>
-
-<br/><br/><br/>
-<hr/>
-
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
