@@ -21,7 +21,7 @@
 # 💻 Programas:
 <p aling="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=figma,ai,ps,ae,pr,blender,idea,obsidian" />
+    <img src="https://skillicons.dev/icons?i=figma,ai,ps,ae,pr,blender,autocad,idea,obsidian" />
   </a>
 </p>
 
@@ -29,21 +29,15 @@
 <hr/>
 
 # 💻 Contacto:
-<p aling="center">
-  <a>
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
-
-<br> <hr>
-
-<h2 style="font-size:25px; text-color: blue;">Contacto</h2>
 <p align="center">
   <a href="mailto:giovanijimenez114@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" target="_blank/">
   </a>
   <a href="https://www.linkedin.com/in/giovani-jim%C3%A9nez-14a356171">
     <img src="https://skillicons.dev/icons?i=linkedin" target="_blank/">
+  </a>
+  <a href="https://giojimenez.com/">
+    <img src="https://skillicons.dev/icons?i=htmx" target="_blank/">
   </a>
 </p>
 
