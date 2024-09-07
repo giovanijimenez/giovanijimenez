@@ -1,9 +1,8 @@
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge"/>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=giovanijimenez.giovanijimenez"/>
 <hr>
 <br>
-## 💫 About Me:
+# 💫 About Me:
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind)](https://skillicons.dev)
 <br>
 <p align="center">
