@@ -1,13 +1,26 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=giovanijimenez.giovanijimenez"/>
 <hr/>
 <br/>
-# 💫 About Me:
 
+<br>
+<hr>
+
+# 💻 Web Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind)](https://skillicons.dev)
 <br>
+<hr>
+
+# 💻 App:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,java,firebase,linux,npm,py,swift,docker,c,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=js,java,firebase,linux,npm,py,swift,docker,c,tailwind,git,mysql,postman" />
+  </a>
+</p>
+
+<p aling="center">
+  <a>
+    
+    <img src="https://skillicons.dev/icons?i=figma,ai,ps,ae,pr,blender,idea,obsidianxd" />
   </a>
 </p>
 
