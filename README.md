@@ -42,6 +42,9 @@
   <a href="mailto:giovanijimenez114@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" target="_blank/">
   </a>
+  <a href="https://www.linkedin.com/in/giovani-jim%C3%A9nez-14a356171">
+    <img src="https://skillicons.dev/icons?i=linkedin" target="_blank/">
+  </a>
 </p>
 
 <br/><br/><br/>
