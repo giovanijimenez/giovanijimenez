@@ -4,7 +4,7 @@
 <hr>
 
 # 💻 Web Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind.github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,github)](https://skillicons.dev)
 <br>
 <hr>
 
