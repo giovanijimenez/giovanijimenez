@@ -4,7 +4,7 @@
 <hr>
 
 # 💻 Web Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind.github)](https://skillicons.dev)
 <br>
 <hr>
 
@@ -18,14 +18,24 @@
 <br>
 <hr>
 
+# 💻 Programas:
 <p aling="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=figma,ai,ps,ae,pr,blender,idea,obsidianxd" />
+    <img src="https://skillicons.dev/icons?i=figma,ai,ps,ae,pr,blender,idea,obsidian" />
   </a>
 </p>
 
-<br/><br/><br/>
+<br>
 <hr/>
+
+# 💻 Contacto:
+<p aling="center">
+  <a>
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+<br> <hr>
 
 <h2 style="font-size:25px; text-color: blue;">Contacto</h2>
 <p align="center">
