@@ -11,6 +11,19 @@
   </a>
 </p>
 
+<br/><br/><br/>
+<hr/>
+
+<h2 style="font-size:25px; text-color: blue;">Contacto</h2>
+<p align="center">
+  <a href="mailto:giovanijimenez114@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" target="_blank/>
+  </a>
+</p>
+
+<br/><br/><br/>
+<hr/>
+
 <br>
 <hr>
 
