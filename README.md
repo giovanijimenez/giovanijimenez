@@ -10,6 +10,9 @@
 
 # 💻 App:
 <p align="center">
+  <a href="https://github.com/giovanijimenez/iOS">
+    <img src="https://skillicons.dev/icons?i=swift" target="_blank/">
+  </a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=swift,java,py,c,firebase,linux,npm,docker,mysql,git,postman" />
   </a>
