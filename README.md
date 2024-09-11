@@ -14,7 +14,7 @@
     <img src="https://skillicons.dev/icons?i=swift" target="_blank/">
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,java,py,c,firebase,linux,npm,docker,mysql,git,postman" />
+    <img src="https://skillicons.dev/icons?i=java,py,c,firebase,linux,npm,docker,mysql,git,postman" />
   </a>
 </p>
 
