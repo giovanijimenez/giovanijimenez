@@ -9,7 +9,7 @@
     <img src="https://skillicons.dev/icons?i=tailwind" target="_blank/">
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,github" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,github" />
   </a>
 </p>
 <br>
