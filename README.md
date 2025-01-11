@@ -4,7 +4,7 @@
 <hr>
 
 # 💻 Web Stack:
-<p align="center">
+<p>
   <a href="https://github.com/giovanijimenez/tailwindInicio">
     <img src="https://skillicons.dev/icons?i=tailwind" target="_blank/">
   </a>
@@ -16,7 +16,7 @@
 <hr>
 
 # 💻 App:
-<p align="center">
+<p align="start">
   <a href="https://github.com/giovanijimenez/iOS">
     <img src="https://skillicons.dev/icons?i=swift" target="_blank/">
   </a>
