@@ -4,7 +4,14 @@
 <hr>
 
 # 💻 Web Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,github)](https://skillicons.dev)
+<p align="center">
+  <a href="https://github.com/giovanijimenez/tailwindInicio">
+    <img src="https://skillicons.dev/icons?i=tailwind" target="_blank/">
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,github" />
+  </a>
+</p>
 <br>
 <hr>
 
