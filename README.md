@@ -2,9 +2,8 @@
 
 <br>
 <hr>
-<h1 align="center">Hola! Soy Giovani Jimenez</h1>
-<br>
-<hr>
+<h1 align="center">Hola! Soy Giovani Jimenez 👍</h1>
+
 # 💻 Web Stack:
 <p>
   <a href="https://github.com/giovanijimenez/tailwindInicio">
