@@ -1,3 +1,5 @@
+<img align="center" src="[https://visitor-badge.laobi.icu/badge?page_id=giovanijimenez.giovanijimenez](https://postimg.cc/NywqjSXW)"/>
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=giovanijimenez.giovanijimenez"/>
 
 <h1 align="center">Hola! Soy Giovani Jimenez 👍</h1>
