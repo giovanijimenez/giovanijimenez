@@ -1,8 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=giovanijimenez.giovanijimenez"/>
 
+<h1 align="center">Hola! Soy Giovani Jimenez 👍</h1>
 <br>
 <hr>
-<h1 align="center">Hola! Soy Giovani Jimenez 👍</h1>
 
 # 💻 Web Stack:
 <p>
