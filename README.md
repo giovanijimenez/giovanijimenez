@@ -58,24 +58,12 @@ desarrollo de software, experiencia de usuario e infraestructura segura.
 <img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,pr,blender" />
 
 </p>
-
----
-
-# 📚 Actualmente aprendiendo
-
-- Arquitectura de Seguridad (SABSA)
-- Zero Trust
-- Cloud Security
-- Inteligencia Artificial Generativa
-- Agentes de IA
-- Arquitecturas escalables
-
 ---
 
 # 📌 Proyectos de interés
 
 - 🤖 Soluciones empresariales con IA
-- 🔐 Seguridad para aplicaciones web
+- 🔐 Seguridad para aplicaciones
 - ☁️ Plataformas Cloud
 - 📊 Dashboards inteligentes
 - 🌐 Sitios web de alto rendimiento
