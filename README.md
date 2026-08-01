@@ -1,74 +1,110 @@
-<div align="center" width: 500px;>
-  
-  [![banner.jpg](https://i.postimg.cc/YSvpbwCq/banner.jpg)](https://postimg.cc/NywqjSXW)
+<div align="center">
+
+[![banner.jpg](https://i.postimg.cc/YSvpbwCq/banner.jpg)](https://postimg.cc/NywqjSXW)
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=giovanijimenez.giovanijimenez"/>
+
+# Hola, soy Giovani Jiménez 👋
+
+### Digital Solutions • AI • Cybersecurity • Cloud • UX/UI
+
+Ayudo a empresas a crecer mediante soluciones digitales, automatización,
+inteligencia artificial y ciberseguridad.
+
+Actualmente trabajo en el desarrollo de productos tecnológicos que combinan
+desarrollo de software, experiencia de usuario e infraestructura segura.
+
 </div>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=giovanijimenez.giovanijimenez"/>
 
-<h1 align="center">Hola! Soy Giovani Jimenez 👍</h1>
-<br>
-<hr>
+---
 
-# 💻 Web Stack:
+# 🚀 Áreas de especialidad
+
+- 💻 Desarrollo Web Full Stack
+- 📱 Desarrollo de Aplicaciones
+- 🤖 Inteligencia Artificial
+- 🔐 Ciberseguridad
+- ☁️ Cloud Computing
+- 🎨 UX/UI
+- 📊 Automatización de procesos
+- 📈 Transformación Digital
+
+---
+
+# 🛠️ Tecnologías
+
 <p>
-  <a href="https://github.com/giovanijimenez/tailwindInicio">
-    <img src="https://skillicons.dev/icons?i=tailwind" target="_blank/">
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,github" />
-  </a>
-</p>
-<br>
-<hr>
 
-# 💻 App:
-<p align="start">
-  <a href="https://github.com/giovanijimenez/iOS">
-    <img src="https://skillicons.dev/icons?i=swift" target="_blank/">
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,aws,firebase,linux,docker,mysql,git,postman" />
-  </a>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nodejs,nestjs,flutter,dart,swift,java,python" />
+
 </p>
 
-<br>
-<hr>
+---
 
-# 💻 Programas:
-<p aling="center">
-  <a>
-    <img src="https://skillicons.dev/icons?i=figma,ai,ps,ae,pr,blender,autocad,idea,obsidian" />
-  </a>
+# ☁️ Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,firebase,linux,git,github,mysql,postgres,postman" />
+
 </p>
 
-<br>
-<hr/>
+---
 
-# 💻 Contacto:
+# 🎨 Diseño
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,pr,blender" />
+
+</p>
+
+---
+
+# 📚 Actualmente aprendiendo
+
+- Arquitectura de Seguridad (SABSA)
+- Zero Trust
+- Cloud Security
+- Inteligencia Artificial Generativa
+- Agentes de IA
+- Arquitecturas escalables
+
+---
+
+# 📌 Proyectos de interés
+
+- 🤖 Soluciones empresariales con IA
+- 🔐 Seguridad para aplicaciones web
+- ☁️ Plataformas Cloud
+- 📊 Dashboards inteligentes
+- 🌐 Sitios web de alto rendimiento
+- 📱 Aplicaciones multiplataforma
+
+---
+
+# 📫 Conecta conmigo
+
 <p align="center">
-  <a href="mailto:giovanijimenez114@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" target="_blank/">
-  </a>
-  <a href="https://www.linkedin.com/in/giovani-jim%C3%A9nez-14a356171">
-    <img src="https://skillicons.dev/icons?i=linkedin" target="_blank/">
-  </a>
-  <a href="https://giojimenez.com/">
-    <img src="https://skillicons.dev/icons?i=htmx" target="_blank/">
-  </a>
+
+<a href="mailto:giovanijimenez114@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/giovani-jim%C3%A9nez-14a356171">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://giojimenez.com">
+<img src="https://skillicons.dev/icons?i=htmx"/>
+</a>
+
 </p>
 
-<br/><br/><br/>
+---
 
-<!--
-**giovanijimenez/giovanijimenez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+### "La tecnología tiene valor cuando resuelve problemas reales."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
