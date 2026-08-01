@@ -1,9 +1,5 @@
 <div align="center">
 
-[![banner.jpg](https://i.postimg.cc/YSvpbwCq/banner.jpg)](https://postimg.cc/NywqjSXW)
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=giovanijimenez.giovanijimenez"/>
-
 # Hola, soy Giovani Jiménez 👋
 
 ### Digital Solutions • AI • Cybersecurity • Cloud • UX/UI
@@ -11,20 +7,17 @@
 Ayudo a empresas a crecer mediante soluciones digitales, automatización,
 inteligencia artificial y ciberseguridad.
 
-Actualmente trabajo en el desarrollo de productos tecnológicos que combinan
-desarrollo de software, experiencia de usuario e infraestructura segura.
-
 </div>
 
 ---
 
 # 🚀 Áreas de especialidad
 
-- 💻 Desarrollo Web Full Stack
-- 📱 Desarrollo de Aplicaciones
 - 🤖 Inteligencia Artificial
 - 🔐 Ciberseguridad
 - ☁️ Cloud Computing
+- 📱 Desarrollo de Aplicaciones
+- 💻 Desarrollo Web Full Stack
 - 🎨 UX/UI
 - 📊 Automatización de procesos
 - 📈 Transformación Digital
