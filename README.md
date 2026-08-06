@@ -13,12 +13,12 @@ inteligencia artificial y ciberseguridad.
 
 # 🚀 Áreas de especialidad
 
-- 🤖 Inteligencia Artificial
 - 🔐 Ciberseguridad
 - ☁️ Cloud Computing
 - 📱 Desarrollo de Aplicaciones
 - 💻 Desarrollo Web Full Stack
 - 🎨 UX/UI
+- 🤖 Inteligencia Artificial
 - 📊 Automatización de procesos
 - 📈 Transformación Digital
 
